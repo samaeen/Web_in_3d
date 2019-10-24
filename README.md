@@ -1,4 +1,6 @@
 This folder contains code using
-	> * React Fusion
-	> * p5.js
-	> * three.js
+	<ul>
+		<li>React Fusion</li>
+		<li>p5.js</li>
+		<li>three.j</li>
+	</ul>
